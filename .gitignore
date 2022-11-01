@@ -1,0 +1,11 @@
+.idea
+.vs
+.vsconfig
+Assembly-CSharp.csproj
+Erosion.sln.DotSettings.user
+Library
+Logs
+Packages
+UserSettings
+obj
+Temp
